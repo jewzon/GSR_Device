@@ -7,7 +7,7 @@ I'll be providing step by step instructions to create the device.
 Here’s the final result:
 ![Image](https://github.com/user-attachments/assets/0de31eb3-38a2-461a-be4c-d317bc265132)
 
- you can check the components used for the project in the [BoM.csv](BoM.csv)
-
+ you can check the components used for the project in the [BoM.csv](BoM.csv) (mentioned under "Value")
+ -
 
 

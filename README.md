@@ -11,3 +11,7 @@ Here’s the final result:
  -
 
 
+
+Step 1: Designing Circuit
+=
+the fundamental circuit is Based on the voltage divider method of aquiring the eletrical Conductivity of the skin surface. Voltage divider produces a weak signal, to amplify it I used an OP-AMP, OLED display to show the results( do mind the conductivity is based on 

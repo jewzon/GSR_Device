@@ -35,7 +35,7 @@ You might wonder why I made the vias so big and distancing the components with e
 
 Step 3: Fabrication
 =
-I used a CNC engraveer & driller to Fabricate the PCB. (if anyone needs to know how in-depth, let me know )
+I used a CNC engraveer & driller to Fabricate the PCB. (if anyone needs to know in-depth, let me know )
 
 Step 4: Programming 
 =
